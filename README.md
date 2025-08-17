@@ -77,5 +77,4 @@ The **Visualizations** includes:
 ---
 
 Dashboard Screenshot :-
-![image alt](https://github.com/Vikas-Sajwan/Titanic_Crash_Analysis-Excel/blob/5f357ef86e6d7e8ef7abf5f471950a9ceba2b290/Dashboard%20Screenshot.png)
-
+![image alt](https://github.com/Vikas-Sajwan/Titanic_Crash_Analysis-Excel/blob/3c11dba6df17d2aa6a317c48b08437c0c5437144/Dashboard%20Screenshot.png)
