@@ -77,4 +77,5 @@ The **Visualizations** includes:
 ---
 
 Dashboard Screenshot :-
+![image alt](https://github.com/Vikas-Sajwan/Air_Crashes_Analysis-SQL-Power-Bi/blob/3ff4a6425c88e3ee4cc14dd9e056d4fda1129bd7/Screenshot%201.png)
 
